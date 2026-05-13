@@ -1,0 +1,8 @@
+{
+  "name": "Speed Reflex",
+  "description": "A high-performance reaction time trainer to test and improve your reflexes through precision challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
